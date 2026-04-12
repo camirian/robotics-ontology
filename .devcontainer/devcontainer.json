@@ -1,0 +1,13 @@
+{
+    "name": "Robotics Ontology (Alpine)",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "DavidAnson.vscode-markdownlint"
+            ]
+        }
+    }
+}
